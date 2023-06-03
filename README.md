@@ -1,2 +1,2 @@
-# NFDreamer
-Related programming assignments and achievements in college
+LR（0）分析法，编译原理
+包含图片识别读取文本，自动生成状态转换图等......
